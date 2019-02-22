@@ -1,13 +1,16 @@
-# README
-## This is the README for your extension "forest-focus"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Forest Focus
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Forest Focus is a dark color scheme designed with earth colors to be easy on the eyes and to make your code more readable. It has deep support for HTML, CSS/SASS, JS, PHP, and Python!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Screenshots
+## JS
+![js](https://github.com/abalejr/forest-focus-theme/raw/master/js_screenshot.png)
 
-**Enjoy!**
+## PHP
+![php](https://github.com/abalejr/forest-focus-theme/raw/master/php_screenshot.png)
+
+## CSS / SASS
+![sass](https://github.com/abalejr/forest-focus-theme/raw/master/html_screenshot.png)
+
+## HTML
+![html](https://github.com/abalejr/forest-focus-theme/raw/master/sass_screenshot.png)
