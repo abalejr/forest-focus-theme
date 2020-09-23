@@ -710,7 +710,7 @@
 				"meta.tag entity"
 			],
 			"settings": {
-				"foreground": "#436216ff"
+				"foreground": "#698145ff"
 			}
 		},
 		{
@@ -1314,9 +1314,9 @@
 			}
 		},
 		{
-			"scope": "col_436216FF",
+			"scope": "col_698145FF",
 			"settings": {
-				"background": "#436216ff",
+				"background": "#698145ff",
 				"foreground": "#F5F5F5FF"
 			}
 		},
