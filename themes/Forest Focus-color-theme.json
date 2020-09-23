@@ -29,7 +29,7 @@
         "gitDecoration.conflictingResourceForeground": "#f07178",
         "gitDecoration.deletedResourceForeground": "#bb90d8",
 		"gitDecoration.ignoredResourceForeground": "#4e5350",
-		
+
 		"editor.background": "#232023",
 		"editorCursor.foreground": "#339966",
 		"editor.foreground": "#B8BDA7",
@@ -710,7 +710,7 @@
 				"meta.tag entity"
 			],
 			"settings": {
-				"foreground": "#718242ff"
+				"foreground": "#436216ff"
 			}
 		},
 		{
@@ -1314,9 +1314,9 @@
 			}
 		},
 		{
-			"scope": "col_718242FF",
+			"scope": "col_436216FF",
 			"settings": {
-				"background": "#718242FF",
+				"background": "#436216ff",
 				"foreground": "#F5F5F5FF"
 			}
 		},
