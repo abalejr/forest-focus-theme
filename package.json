@@ -2,19 +2,19 @@
     "name": "forest-focus",
     "displayName": "Forest Focus",
     "description": "Dark earth-tone theme made to be easy on the eyes. Deep support for JS, PHP, Python, HTML, & CSS",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "author": "A.J. Bale",
-	"publisher": "abalejr",
-	"galleryBanner": {
-		"color": "#667c55",
-		"theme": "dark"
-	},
-	"icon": "logo.png",
-	"homepage": "https://github.com/abalejr/forest-focus-theme",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/abalejr/forest-focus-theme"
-	},
+    "publisher": "abalejr",
+    "galleryBanner": {
+        "color": "#667c55",
+        "theme": "dark"
+    },
+    "icon": "logo.png",
+    "homepage": "https://github.com/abalejr/forest-focus-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abalejr/forest-focus-theme"
+    },
     "engines": {
         "vscode": "^1.31.0"
     },
