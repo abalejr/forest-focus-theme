@@ -1,6 +1,6 @@
 # Forest Focus
 
-Forest Focus is a dark color scheme designed with earth colors to be easy on the eyes and to make your code more readable. It has deep support for HTML, CSS/SASS, JS, PHP, and Python!
+Forest Focus is a dark color scheme designed with earth colors to be easy on the eyes and to make your code more readable. The palette consists mostly of muted green, yellow, blue, and purple hues. It has deep support for HTML, CSS/SCSS, JS, PHP, and Python!
 
 # Screenshots
 ## JS
