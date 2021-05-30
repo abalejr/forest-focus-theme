@@ -413,7 +413,6 @@
 			"name": "String",
 			"scope": "punctuation.definition.string",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#9FB760"
 			}
 		},
